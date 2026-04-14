@@ -5,7 +5,7 @@ Hi! I'm Camilo,a FullStack Developer from chile, and currently working on my own
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-sanchez-barrios-20776363/) 
-[![Portfolio](https://camilo-sanchez-2810.github.io/)
+[![Portfolio(https://img.shields.io/badge/Portfolio-8A2BE2)](https://camilo-sanchez-2810.github.io/)
 
 # 💻 Tech Stack:
 ### Programming languages
